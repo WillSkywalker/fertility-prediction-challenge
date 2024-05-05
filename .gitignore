@@ -5,3 +5,7 @@
 .LSOverride
 __pycache__/
 .tool-versions
+
+codebooks/
+training_data/
+other_data/
